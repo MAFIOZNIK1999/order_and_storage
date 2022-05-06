@@ -23,3 +23,5 @@ Application implements 3 layer architecture with controller, service and Reposit
 2. db.url=YOUR_URL
 3. db.username=YOUR_NAME
 4. db.password=YOUR_PASSWORD
+
+- Simply run application on your computer. You should Postman API to send Get, Post, Delete requests to the webserver.
